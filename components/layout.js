@@ -5,6 +5,8 @@ import Link from 'next/link'
 
 const name = 'Abubakr Elghazawy'
 export const siteTitle = 'Abubakr Elghazawy'
+export const  SiteContactInfoEmail = 'abubakrelghazawy@gmail.com' 
+export const SiteContactInfoPhone  = '01555504957'
 
 export default function Layout({ children, home }) {
   return (
@@ -13,7 +15,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Software Developer Write Code With Javascript"
         />
         <meta
           property="og:image"
@@ -32,7 +34,24 @@ export default function Layout({ children, home }) {
               className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
               alt={name}
             />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className={utilStyles.headingMd}>{name}</h1>
+          <div className={utilStyles.headingContact}>
+              
+          <a href='mailto:abubaker8911@gmail.com' target='_blank'>
+               <img
+                 src='/images/email.png'
+                 className={utilStyles.headingIcon}
+               />
+           
+           </a>
+           {/* <a href='tel:+2001555504957' target='_blank'>
+               <img
+                 src='/images/phone-call.png'
+                 className={utilStyles.headingIcon}
+               />
+               
+           </a> */}
+          </div>
           </>
         ) : (
           <>
