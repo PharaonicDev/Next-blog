@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <section className={utilStyles.headingXS}>
      
         <p>
         I Am Seeking Challenging Career Opportunity In The Field Of Software
@@ -23,7 +23,7 @@ export default function Home() {
         In Any Way I Want  Leave A Finger Print In The World
        
         </p>
-        
+
       </section>
     </Layout>
   )

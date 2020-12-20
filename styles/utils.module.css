@@ -24,6 +24,15 @@
     font-size: 1.2rem;
     line-height: 1.5;
   }
+  .headingMd {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  /* .headingXS {
+    font-size: 1.1rem;
+    line-height: 1.4;
+  } */
+
   .headingIcon {
       width: 42px;
       height: 42px;
