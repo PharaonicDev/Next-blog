@@ -23,6 +23,7 @@ export default function Home() {
         In Any Way I Want  Leave A Finger Print In The World
        
         </p>
+        
       </section>
     </Layout>
   )

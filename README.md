@@ -1,11 +1,11 @@
-Thise is My portfolio build with
-<b>Frameworks & Libraries </b>
-1- Next.js (https://nextjs.org/learn)
-2-Tailwind.css (https://tailwindcss.com/)
-3-PostCss (https://postcss.org/)
+Thise is My portfolio build with </br>
+<b>Frameworks & Libraries </b></br>
+1- Next.js (https://nextjs.org/learn)</br>
+2-Tailwind.css (https://tailwindcss.com/)</br>
+3-PostCss (https://postcss.org/)</br>
 
-<b>Database (https://jamstack.org/headless-cms/)</b>
-1- Pick one of that Headless CMS 
+<b>Database </b></br>
+1- Pick one of that Headless CMS (https://jamstack.org/headless-cms/)</br>
 
-<b>Server</b>
-- vercel (https://vercel.com/)
+<b>Server</b></br>
+- vercel (https://vercel.com/)</br>
