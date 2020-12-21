@@ -14,3 +14,6 @@ Thise is My portfolio build with </br>
 <b>Server</b></br>
 
 - vercel (https://vercel.com/)</br>
+
+<b>SEO</b>
+-MetaTag (https://ogp.me/)

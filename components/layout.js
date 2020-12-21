@@ -15,14 +15,18 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Software Developer Write Code With Javascript"
+          content="Software Developer Engineer Write Code With Javascript"
         />
-        <meta
-          property="og:image"
-          content={`https://og-image.now.sh/${encodeURI(
-            siteTitle
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
+        <meta 
+         name="keyword"
+         content= " Top 10 Developer in The World ,portfolio, Javascript, developer, React Developer , Front End Developer , React Native Developer , Freelancer Developer , Mobile Apps Developer "
         />
+         <meta property="og:title" content="Abubake Elghzawy | Front End Web Developer"/>
+        <meta property="og:description" content="JavaScript wizard, chaotic good" />
+        <meta property="og:image" content="/imahes/profile.jpg"/>
+        <meta property="og:url" content="www.abubakrelghazawy.com" />
+        <meta property="og:type" content="website" />
+
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
